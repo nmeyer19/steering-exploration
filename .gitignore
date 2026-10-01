@@ -1,0 +1,8 @@
+results/
+results_smoke/
+__pycache__/
+*.pyc
+.pytest_cache/
+writeup/*.aux
+writeup/*.log
+writeup/*.pdf
